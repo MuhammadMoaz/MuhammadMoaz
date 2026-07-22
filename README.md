@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on a Time Series Analysis Project<br>🌱 I’m currently learning Computer Vision
+🔭 I’m currently working on Autonomous Drone Reconnaissance using Vision-Language-Action (VLA\) Models<br>🌱 I’m currently learning Machine Learning & Artifical Intelligence
 
 
 ## 🌐 Socials:
